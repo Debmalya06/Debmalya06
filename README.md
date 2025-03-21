@@ -1,4 +1,4 @@
-![logo](![DEBMALYA PAN (4)](https://github.com/user-attachments/assets/8f1d447a-6696-4326-ba38-c69791b937f4))
+![DEBMALYA PAN (4)](https://github.com/user-attachments/assets/8f1d447a-6696-4326-ba38-c69791b937f4)
 <h1 align="center">Hi, I am Debmalya Pan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
