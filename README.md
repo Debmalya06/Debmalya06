@@ -10,8 +10,7 @@ Welcome to my GitHub profile, where ideas turn into code! 🚀
 - 🔭 Currently working on Web Development, IOT projects.
 - 🌱 Exploring **Spring Boot** 
 - 💬 Ask me about Web Development & IOT
-- 📫 Reach me at [your-email@example.com](mailto:debmalyapan4@example.com)
-- 
+ 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](http://linkedin.com/in/debmalya-pan-62b701244)
 
