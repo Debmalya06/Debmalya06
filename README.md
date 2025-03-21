@@ -2,9 +2,6 @@
 <h1 align="center">Hi, I am Debmalya Pan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="Coding" width="300" src="
-">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya876&label=Profile%20views&color=0e75b6&style=flat" alt="debmalya06" /> </p>
 
 - 🌱 I’m currently learning **Backend Development using Spring Boot**
