@@ -3,7 +3,35 @@
   <img src="https://github.com/user-attachments/assets/8f1d447a-6696-4326-ba38-c69791b937f4" alt="DEBMALYA PAN" />
 </p>
 
-<h1 align="center">👋 Hi, I am Debmalya Pan</h1>
+
+
+
+<h1 align="center">
+  <a href="#" style="text-decoration: none;">
+    <span style="display: inline-block; animation: wave 2s infinite;">👋</span>
+    <span style="animation: fadeIn 3s ease-in-out;"> Hi, I am Debmalya Pan </span>
+  </a>
+</h1>
+
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg);}
+  20% { transform: rotate(10deg);}
+  40% { transform: rotate(-10deg);}
+  60% { transform: rotate(10deg);}
+  80% { transform: rotate(-10deg);}
+  100% { transform: rotate(0deg);}
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>
+
+
+
+
+
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center">
