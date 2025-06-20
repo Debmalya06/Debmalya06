@@ -7,26 +7,8 @@
 
 
 <h1 align="center">
-  <a href="#" style="text-decoration: none;">
-    <span style="display: inline-block; animation: wave 2s infinite;">👋</span>
-    <span style="animation: fadeIn 3s ease-in-out;"> Hi, I am Debmalya Pan </span>
-  </a>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> Hi, I am Debmalya Pan
 </h1>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg);}
-  20% { transform: rotate(10deg);}
-  40% { transform: rotate(-10deg);}
-  60% { transform: rotate(10deg);}
-  80% { transform: rotate(-10deg);}
-  100% { transform: rotate(0deg);}
-}
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-</style>
 
 
 
