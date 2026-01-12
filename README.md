@@ -88,15 +88,9 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debmalya06&layout=compact&theme=dark&cache_seconds=1800"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debmalya06&layout=compact&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debmalya06&show_icons=true&theme=dark&cache_seconds=1800"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debmalya06&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Debmalya06&theme=dark"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Debmalya06&theme=dark)
 
