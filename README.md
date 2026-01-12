@@ -85,7 +85,15 @@
 </p>
 
 ---
+## 🛠️ Backend Stack
 
+![Java](https://img.shields.io/badge/Java-Backend-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-REST-success)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![JWT](https://img.shields.io/badge/JWT-Security-red)
+
+---
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debmalya06&layout=compact&theme=dark)
@@ -93,4 +101,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debmalya06&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Debmalya06&theme=dark)
+
+  <img
+    width="450"
+    src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Debmalya06&langs_count=4&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=40&layout=compact"
+    alt="Debmalya's Top Languages"
+  />
+
 
