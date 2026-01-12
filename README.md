@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Debmalya06&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🌱 I’m currently learning **Backend Development using Spring Boot**  
+- 🌱 I'm currently learning **Backend Development using Spring Boot**  
 - 💻 I am currently working on an **IoT-based project**  
 - 📫 Reach me at: **debmalyapan4@gmail.com**
 
@@ -86,14 +86,16 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debmalya06&show_icons=true&locale=en&layout=compact" alt="Debmalya06" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Debmalya06&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Debmalya06&show_icons=true&locale=en" alt="Debmalya06" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debmalya06&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debmalya06&" alt="Debmalya06" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debmalya06&theme=dark" alt="GitHub Streak" />
 </p>
