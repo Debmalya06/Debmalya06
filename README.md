@@ -102,10 +102,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Debmalya06&theme=dark)
 
-  <img
-    width="450"
-    src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Debmalya06&langs_count=4&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=40&layout=compact"
-    alt="Debmalya's Top Languages"
-  />
+## 📈 Contribution Graph
+
+![Debmalya Pan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debmalya06&theme=react-dark&hide_border=true)
 
 
