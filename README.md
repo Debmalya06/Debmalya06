@@ -1,9 +1,9 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f1d447a-6696-4326-ba38-c69791b937f4" alt="DEBMALYA PAN" />
+  <img src="https://github.com/user-attachments/assets/5c6baee3-fbaf-4527-ac54-095098caef24" alt="DEBMALYA PAN" />
 </p>
 
-
+<!-- old banner:    https://github.com/user-attachments/assets/8f1d447a-6696-4326-ba38-c69791b937f4 -->
 
 
 <h1 align="center">
