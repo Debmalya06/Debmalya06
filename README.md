@@ -3,107 +3,94 @@
   <img src="https://github.com/user-attachments/assets/5c6baee3-fbaf-4527-ac54-095098caef24" alt="DEBMALYA PAN" />
 </p>
 
-<!-- old banner:    https://github.com/user-attachments/assets/8f1d447a-6696-4326-ba38-c69791b937f4 -->
-
-
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> Hi, I am Debmalya Pan
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> 
+  Hi, I am Debmalya Pan
 </h1>
 
-
-
-
-
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">🚀 A Passionate Software Engineer | Backend Focus</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Debmalya06&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Debmalya06&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
-- 🌱 I'm currently learning **Backend Development using Spring Boot**  
-- 💻 I am currently working on an **IoT-based project**  
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **Backend Development using Spring Boot**
+- 💻 Working on **IoT-based & Backend-heavy projects**
+- 🎯 Strong interest in **Scalable Systems & APIs**
 - 📫 Reach me at: **debmalyapan4@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/debmalya-pan-62b701244" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debmalya Pan" height="30" width="40" />
+  <a href="https://linkedin.com/in/debmalya-pan-62b701244" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 </p>
 
 ---
-  <!-- Existing icons -->
-<h3 align="left">Languages and Tools:</h3>
+
+## 🧑‍💻 Languages & Tools
+
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,python,js,html,css,react,arduino,opencv,tailwind,vscode,idea&theme=dark" />
 </p>
 
 ---
+
 ## 🛠️ Backend Stack
 
-![Java](https://img.shields.io/badge/Java-Backend-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-REST-success)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![JWT](https://img.shields.io/badge/JWT-Security-red)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-Backend-0e75b6?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-REST-2ecc71?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-27ae60?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-f39c12?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/JWT-Security-e74c3c?style=for-the-badge&logo=jsonwebtokens"/>
+</p>
 
 ---
-## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debmalya06&layout=compact&theme=dark)
+## ⏱️ WakaTime Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debmalya06&show_icons=true&theme=dark)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Debmalya06&theme=dark)
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debmalya06&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Debmalya06&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debmalya06&layout=compact&theme=react&hide_border=true" />
+</p>
+
+
+---
 
 ## 📈 Contribution Graph
 
-![Debmalya Pan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debmalya06&theme=react-dark&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Debmalya06&theme=react-dark&hide_border=true"
+  />
+</p>
 
+---
 
+<p align="center">
+  💡 <i>Always open to collaborating on exciting AI, ML, Backend & IoT projects</i>
+</p>
