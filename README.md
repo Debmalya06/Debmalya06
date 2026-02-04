@@ -8,7 +8,7 @@
   Hi, I am Debmalya Pan
 </h1>
 
-<h3 align="center">🚀 A Passionate Software Engineer | Backend Focus</h3>
+<h3 align="center">🚀 A Passionate Software Developer | Backend Focus</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Debmalya06&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
