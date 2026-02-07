@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 Currently learning **Backend Development using Spring Boot**
-- 💻 Working on **IoT-based & Backend-heavy projects**
+- 💻 Working on **IoT-based & Backend projects**
 - 🎯 Strong interest in **Scalable Systems & APIs**
 - 📫 Reach me at: **debmalyapan4@gmail.com**
 
