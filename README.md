@@ -60,11 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2026 - To: 09 February 2026
+From: 30 January 2026 - To: 11 February 2026
 
-Total Time: 1 hr 36 mins
+Total Time: 3 hrs 11 mins
 
-Java   1 hr 36 mins    █████████████████████████   100.00 %
+Java              2 hrs 18 mins   ██████████████████░░░░░░░   71.93 %
+Java Properties   36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+JavaScript        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Git Config        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
