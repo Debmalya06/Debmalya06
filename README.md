@@ -60,20 +60,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2026 - To: 09 April 2026
+From: 30 January 2026 - To: 10 April 2026
 
-Total Time: 39 hrs 16 mins
+Total Time: 40 hrs 13 mins
 
-Java              12 hrs 53 mins        ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-JavaScript        10 hrs 23 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-Java Properties   4 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Bash              3 hrs 38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Python            3 hrs 19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Other             2 hrs 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Markdown          1 hr 35 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Git Config        52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-XML               46 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-JSON              32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Java              12 hrs 53 mins        ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+JavaScript        11 hrs 11 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+Java Properties   4 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Bash              3 hrs 38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Python            3 hrs 19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Other             2 hrs 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Markdown          1 hr 35 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Git Config        52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+XML               46 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+JSON              37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
