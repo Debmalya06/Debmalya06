@@ -60,20 +60,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2025 - To: 08 July 2026
+From: 19 December 2025 - To: 09 July 2026
 
-Total Time: 102 hrs 22 mins
+Total Time: 102 hrs 52 mins
 
-TypeScript                 31 hrs 5 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-Java                       20 hrs 12 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-Other                      17 hrs 36 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-JavaScript                 16 hrs 45 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-Bash                       8 hrs 48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-Markdown                   6 hrs 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Java Properties            5 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Python                     3 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON                       3 hrs 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-CSS                        1 hr 54 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+TypeScript                 31 hrs 5 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+Java                       20 hrs 12 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Other                      17 hrs 42 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+JavaScript                 17 hrs                ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Bash                       8 hrs 48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Markdown                   6 hrs 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Java Properties            5 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Python                     3 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+JSON                       3 hrs 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+CSS                        1 hr 58 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
